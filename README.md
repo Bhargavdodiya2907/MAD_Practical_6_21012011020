@@ -14,4 +14,4 @@ What is Service?
   (2)Background
   (3)Bound
   Output:
-  
+  ![Screenshot 2023-10-01 112058](https://github.com/Bhargavdodiya2907/MAD_Practical_6_21012011020/assets/139693303/f2110853-ca50-476f-b027-5f593c583ef5)
